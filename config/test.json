@@ -1,0 +1,6 @@
+{
+    "name": "My Express App - test",
+    "jwtPrivateKey": "xyz",
+    "db": "mongodb://localhost:27017/vidlyDB_tests"
+  }
+  
